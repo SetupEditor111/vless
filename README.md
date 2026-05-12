@@ -3,15 +3,22 @@
   
 <br><br/>
 
-<div dir="rtl" align="right">
-## 📦 مخزن ابزارها، کلاینت‌ها و لینک‌های دانلود (اینترانت / اینترنت)
+<div align="center">
 
-<div align="right">
-  <img src="https://img.shields.io/badge/آخرین_بروزرسانی_شانزدهم_ازدیبهشت_۱۴۰۵-blue?style=for-the-badge&logo=github" alt="Update Date" />
-  <img src="https://img.shields.io/badge/وضعیت-فعال-success?style=for-the-badge" alt="Status" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header" width="100%"/>
+
+<h2 dir="rtl">📦 مخزن ابزارها، کلاینت‌ها و لینک‌های دانلود</h2>
+<p dir="rtl"><sub>اینترانت &nbsp;|&nbsp; اینترنت</sub></p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Last_Updated-May_12,_2025-7857FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="update date"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge&logo=statuspage&logoColor=white" alt="status"/>
+
+<br/><br/>
+
 </div>
-
-<br>
 
 این مخزن شامل مجموعه‌ای کامل از آخرین نسخه‌ی کلاینت‌ها، ابزارهای مدیریت فایل، دی‌ان‌اس‌ها، و اپلیکیشن‌های کاربردی است که قابلیت دانلود با **اینترنت داخلی (اینترانت)** را دارند.
 
@@ -40,16 +47,12 @@
 <details>
 <summary> برای مشاهده لیست تغییرات اخیر کلیک کنید. </summary><br/>
 
-- ✔️ کلاینت Happ نسخه‌ی v3.20.2
-- ✔️ کلاینت Exclave نسخه v0.17.38
+- ✔️ سایفون پرو گوگل‌پلی نسخه v464 beta 
+- ✔️ اپ EveryProxy نسخه v16.2.1
 - ✔️ کلاینت v2rayNG نسخه v2.1.4
-- ✔️ اپ ویندسکرایب نسخه v4.0.2178
-- ✔️ کلاینت clash-meta نسخه v2.11.27
-- ✔️ سایفون پرو گوگل‌پلی نسخه v462
-- ✔️ اپ pdaNet نسخه v5.32
-- ✔️ کلاینت نکوباکس نسخه v1.4.2
-- ✔️ اپ DNS Changer نسخه مود v2.9.2
-- ✔️ اپ MahsaAlert آفلاین نسخه v10
+- ✔️ کلاینت v2rayNG نسخه v2.1.7
+- ✔️ کلاینت WhiteDNS نسخه v1.2.0
+- ✔️ کلاینت MasterDNS-GG نسخه v1.1.0
 
 </details>
 </div>
@@ -80,36 +83,36 @@
 - ClashMeta — v2.11.27 ([armv8](https://github.com/nscl5/sandbox/raw/refs/heads/main/downloads/cmfa-2.11.27-meta-arm64-v8a-release.apk) / [armv7](https://github.com/nscl5/sandbox/raw/refs/heads/main/downloads/cmfa-2.11.27-meta-armeabi-v7a-release.apk) / [universal](https://github.com/nscl5/sandbox/raw/refs/heads/main/downloads/cmfa-2.11.27-meta-universal-release.apk))
 - Defyx — v5.2.8 ([armv8](https://github.com/nscl5/sandbox/raw/refs/heads/main/downloads/app-arm64-v8a-release.apk) / [armv7](https://github.com/nscl5/sandbox/raw/refs/heads/main/downloads/app-armeabi-v7a-release.apk) / [win](https://github.com/nscl5/sandbox/raw/refs/heads/main/downloads/windows-release.zip))
 - DNSTT — v2.2.0 ([armv8](https://c147793.parspack.net/c147793/DNSTT_CLIENT/DNSTT_armv8_v2.2.0.apk) / [armv7](https://c147793.parspack.net/c147793/DNSTT_CLIENT/DNSTT_armv7_v2.2.0.apk) / [conf](https://c147793.parspack.net/c147793/DNSTT_CLIENT/dnstt_conf.txt))
-- Exclave — v1.17.38 ([armv8](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.38-arm64-v8a.apk) / [armv7](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.38-armeabi-v7a.apk)) + ([full backup 1 May](https://github.com/nscl5/dl/raw/main/dl/ExclaveFullBackup_1May_2026.zip))
-- Happ — v3.20.2 ([universal](https://github.com/nscl5/dl/raw/main/dl/Happ.apk) / [win-x64](https://c224731.parspack.net/c224731/happ/Happ_windows-x64_v2.9.0.zip)) 🆕
+- Exclave — v1.17.39 ([armv8](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.39-arm64-v8a.zip) / [armv7](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.39-armeabi-v7a.zip)) + ([full backup 1 May](https://github.com/nscl5/dl/raw/main/dl/ExclaveFullBackup_1May_2026.zip))
+- Happ — v3.20.4 ([universal](https://github.com/nscl5/dl/raw/main/dl/Happ.zip) / [win-x64](https://c224731.parspack.net/c224731/happ/Happ_windows-x64_v2.9.0.zip))
 - Hiddify — v4.1.1 ([universal](https://files.bokhary.ir/logique/pub/Clients/Hiddify-Android-v8a-4.1.1.apk) / [macos](https://api.mirrorino.com/raw/amirhbuilds/hiddify-app/releases/v4.1.1/Hiddify-MacOS.dmg) / [win](https://api.mirrorino.com/raw/amirhbuilds/hiddify-app/releases/v4.1.1/Hiddify-Windows-Setup-x64.exe))
 - HTTP Injector — v6.5.0 ([universal](https://c147793.parspack.net/c147793/HTTP-Injector_universal_6.5.0.apk))
 - InviZible Pro — v7.4.0 ([armv8](https://c147793.parspack.net/c147793/InZ/InviZiblePro_armv8_v7.4.0.apk))
 - InviZible Lite — v7.4.0 ([armv8](https://c147793.parspack.net/c147793/InZ/InvizibleLite_armv8_v7.4.0.apk))
 - InviZible Pro beta — v2.6.8 ([armv8](https://github.com/nscl5/dl/raw/main/dl/Invizible_Pro__beta_ver.2.6.8.apk))
 - MahsaNG — v15 ([armv8](https://c224731.parspack.net/c224731/MahsaNG_armv8_v15.apk))
-- NekoBox — v1.4.2 ([armv8](https://c224731.parspack.net/c224731/ex/NekoBox_armv8_v1.4.2.apk) / [armv7](https://c224731.parspack.net/c224731/ex/NekoBox_armv7_v1.4.2.apk)) 🆕
-- Netmod — v4.0.2 ([armv8](https://c224731.parspack.net/c224731/NetMod_armv8_v4.0.2.apks) / [universal](https://c147793.parspack.net/c147793/Netmod/NetMod_universal_v3.2.8.apk) / [conf](https://c147793.parspack.net/c147793/SLIPNET/netmod_conf.txt))
+- NekoBox — v1.4.2 ([armv8](https://c224731.parspack.net/c224731/ex/NekoBox_armv8_v1.4.2.apk) / [armv7](https://c224731.parspack.net/c224731/ex/NekoBox_armv7_v1.4.2.apk))
+- Netmod — v4.0.2 ([armv8](https://github.com/nscl5/dl/raw/main/dl/NetMod_armv8_v4.1.0.apks) / [universal](https://c147793.parspack.net/c147793/Netmod/NetMod_universal_v3.2.8.apk) / [conf](https://c147793.parspack.net/c147793/SLIPNET/netmod_conf.txt))
 - NPVT — v123.1 ([armv8](https://c147793.parspack.net/c147793/Npv-Tunnel_armv8_v123.1.apks) / [universal](https://c147793.parspack.net/c147793/NPV-Tunnel_universal_v123.1.zip) / [conf](https://c147793.parspack.net/c147793/SLIPNET/npv_latest_configs.zip))
 - OpenVPN — v3.7.1 ([armv8](https://c147793.parspack.net/c147793/OpenVPN_armv8_v3.7.1.apks))
 - OpenVPN for Android — v0.7.64 ([armv8](https://c147793.parspack.net/c147793/OpenVPN_for_Android_armv8_v0.7.64.apks))
 - Orbot — v17.9.1-RC-1 ([armv8](https://up.20script.ir/do.php?filename=2912-Orbot.zip))
 - Psiphon — ([v439](https://c147793.parspack.net/c147793/PSIPHON/Psiphon_v439.apk) / [win](https://files.bokhary.ir/logique/pub/Clients/psiphon3.exe))
 - Psiphon — [v453](https://c147793.parspack.net/c147793/PSIPHON/Psiphon_v453.apk)
-- PsiphonPro — [v449](https://files.bokhary.ir/logique/pub/Clients/Psiphon%20Pro_449.apk)
 - PsiphonPro — [v454](https://c147793.parspack.net/c147793/PSIPHON/PsiphonPro_v454.apk)
 - PsiphonPro — [v458](https://c147793.parspack.net/c147793/PSIPHON/PsiphonPro_v458.apk)
-- PsiphonPro — [v462](https://c224731.parspack.net/c224731/psi/PsiphonPro_v462.apk) 🆕
+- PsiphonPro — [v462](https://c224731.parspack.net/c224731/psi/PsiphonPro_v462.apk)
+- PsiphonPro — [v464](https://github.com/nscl5/dl/raw/main/dl/PsiphonPro_v464.zip) 🆕
 - ShirOkhorshid — [v2026.03.17](https://c224731.parspack.net/c224731/psi/ShirOKhorshid_universal_v2026.03.17.apk)
 - Rostam VPN — [v5.0.0](https://c147793.parspack.net/c147793/ROSTAM/Rostam_armv8_v5.0.0.apk)
 - SlipNet Lite — v2.5.3 ([armv8](https://github.com/nscl5/dl/raw/main/dl/SlipNet-v2.5.3-lite-release-arm64-v8a.apk) / [armv7](https://github.com/nscl5/dl/raw/main/dl/SlipNet-v2.5.3-lite-release-armeabi-v7a.apk) / [universal](https://github.com/nscl5/dl/raw/main/dl/SlipNet-v2.5.3-lite-release-universal.apk) / [clone](https://github.com/nscl5/dl/raw/main/dl/SlipNetLiteClone_armv8_v2.5.3.apk))
 - SlipNet Full — v2.5.3 ([armv8](https://github.com/nscl5/dl/raw/main/dl/SlipNet-v2.5.3-full-release-arm64-v8a.apk) / [armv7](https://github.com/nscl5/dl/raw/main/dl/SlipNet-v2.5.3-full-release-armeabi-v7a.apk) / [universal](https://github.com/nscl5/dl/raw/main/dl/SlipNet-v2.5.3-full-release-universal.apk))
-- v2rayNG — v2.1.4 ([armv8](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.4_arm64-v8a.apk) / [armv7](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.4_armeabi-v7a.apk)) 🆕
+- v2rayNG — v2.1.7 ([armv8](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.7_arm64-v8a.apk) / [armv7](https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.7_armeabi-v7a.apk)) 🆕
 - v2rayN — v7.20.2 ([windows](https://c147793.parspack.net/c147793/v2rayN_windows64_v7.20.2.zip))
 - V2box — v5.3.4 ([armv8](https://c147793.parspack.net/c147793/V2/V2BOX_armv8_v5.3.4.apks))
 - WireGuard — v1.0.20 ([universal](https://c147793.parspack.net/c147793/WireGuard_universal_1.0.20.zip))
 - WG Tunnel — v4.3.1 ([armv8](https://c147793.parspack.net/c147793/wgtunnel_armv8_v4.3.1.zip))
-- Windscribe — v4.0.2178 ([armv8](https://c224731.parspack.net/c224731/Windscribe_armv8_v4.0.2178.apks)) 🆕
+- Windscribe — v4.0.2208 ([armv8](https://github.com/nscl5/dl/raw/main/dl/Windscribe_armv8_4.0.2208.apks)) 🆕
 
 <hr/><br/>
 
@@ -120,10 +123,10 @@
 - DNS Changer — v2.9.2 ([universal](https://c224731.parspack.net/c224731/DNS-Changer_mod_universal_v2.9.2.apk)) 🆕
 - IntraDNS — v1.4.1 ([armv8](https://c147793.parspack.net/c147793/Intra_armv8_v1.4.1.apks))
 - Network Checker — v0.5.0 ([armv8](https://c147793.parspack.net/c147793/Network-checker_armv8_v0.5.0.apk))
-- SanDNS — v7.8.0 ([universal](https://c147793.parspack.net/c147793/SanDNS_universal_v7.8.0.apk))
+- MasterDNS-GG — v1.1.0 ([armv8](https://github.com/nscl5/dl/raw/main/dl/MasterDnsVPN-GG-1.1.0-arm64-v8a.apk) / [armv7](https://github.com/nscl5/dl/raw/main/dl/MasterDnsVPN-GG-1.1.0-armeabi-v7a.apk)) 🆕
 - Shekan — v2.1.7 ([universal](https://c147793.parspack.net/c147793/IR/Shecan_universal_v2.1.7.apk))
 - Rethink DNS — v0.5.5-53 ([universal](https://c147793.parspack.net/c147793/Rethink_universal_v53.zip))
-- MasterDNS — v1.0.9 ([armv8](https://c224731.parspack.net/c224731/slp/MasterDnsVPN-GG_armv8_v1.0.9.apk) / [armv7](https://c224731.parspack.net/c224731/slp/MasterDnsVPN-GG_armv7_v1.0.9.apk))
+- WhiteDNS — v1.2.0 ([armv8](https://github.com/nscl5/dl/raw/main/dl/WhiteDNS-1.2.0-arm64-v8a.apk) / [armv7](https://github.com/nscl5/dl/raw/main/dl/WhiteDNS-1.2.0-armeabi-v7a.apk))
 - VayDNS — v1.2.1 ([armv8](https://c147793.parspack.net/c147793/VayDNS_armv8_v1.2.1.apk))
 - Find DNS — v0.2.2.2.1 ([win](https://c147793.parspack.net/c147793/findns-windows-amd64.zip))
 - SNI SpoofingByPatterniha — v1 ([win](https://c224731.parspack.net/c224731/sni/SNI_SpoofingByPatterniha_v1.zip))
@@ -154,7 +157,7 @@ _قابل دانلود با اینترنت ملی:_
 
 ## 🔗 اشتراک‌گذاری اینترنت و آموزش‌ها
 
-- EveryProxy — v15.7.0 ([armv8](https://c224731.parspack.net/c224731/ep/EveryProxy_armv8_v15.7.0.apks))
+- EveryProxy — v16.2.1 ([armv8](https://github.com/nscl5/dl/raw/main/dl/EveryProxy_armv8_v16.2.1.apks)) 🆕
 - EveryProxy — v10.5.0 ([armv8](https://c147793.parspack.net/c147793/EP/EveryProxy_armv8_v10.5.0.apk))
 - PdaNet Android — [v5.32](https://c224731.parspack.net/c224731/ep/PdaNet%2B_android_v5.32.apk)
 - PdaNet Windows — [v5.32](https://c224731.parspack.net/c224731/ep/PdaNet_windows_v5.32.exe)
@@ -170,7 +173,8 @@ _قابل دانلود با اینترنت ملی:_
 
 > در شرایط محدودیت اینترنت، این موتورهای جستجو به خوبی نتایج گوگل را نمایش می‌دهند:
 
-- 🤖 [@Gooogleit_bot](https://t.me/@Gooogleit_bot) - (ربات جستجوگر گوگل در تلگرام(
+- 🤖 [@Gooogleit_bot](https://t.me/Gooogleit_bot) - (ربات جستجوگر گوگل در تلگرام)
+- 🤖 [@WebSearchAiBot](https://t.me/WebSearchAiBot) - (یک ربات جستجوگر گوگل تلگرامی دیگر)
 - 🌐 [Search.bertina.ir](https://search.bertina.ir) - (مرورگر بسیار خوب، نمایش دقیق نتایج سرچ گوگل)
 - 🐣 [llm.bertina.ir](https://llm.bertina.ir) - (مدل هوش مصنوعی برتینا)
 - 🌐 [Zarebin.ir](https://zarebin.ir/) - (مرورگر ذره‌بین)
@@ -242,11 +246,11 @@ _قابل دانلود با اینترنت ملی:_
 
 |                                                        |                                                  |                                                   |
 | :----------------------------------------------------- | :----------------------------------------------- | :------------------------------------------------ |
-| 1. [mossi_zi](https://t.me/mossi_zi)                   | 6. [iliaen](https://t.me/iliaen)                 | 11. [drtel](https://t.me/drtel)                   |
+| 1. [musssa_i](https://t.me/musssa_i)                   | 6. [iliaen](https://t.me/iliaen)                 | 11. [drtel](https://t.me/drtel)                   |
 | 2. [virauniversitycom](https://t.me/virauniversitycom) | 7. [VahidOnline](https://t.me/VahidOnline)       | 12. [mahsa_alert](https://t.me/mahsa_alert)       |
 | 3. [hadafazadi2022](https://t.me/hadafazadi2022)       | 8. [idfinfarsi](https://t.me/idfinfarsi)         | 13. [JavidnamanIran](https://t.me/JavidnamanIran) |
-| 4. [IranintlTV](https://t.me/IranintlTV)               | 9. [IraneAzad_News](https://t.me/IraneAzad_News) | 14. [withyashar](https://t.me/withyashar)         |
-| 5. [mamlekate](https://t.me/mamlekate)                 | 10. [drdat_ir](https://t.me/drdat_ir)            | 15. [Indypersian](https://t.me/Indypersian)       |
+| 4. [IranintlTV](https://t.me/IranintlTV)               | 9. [IraneAzad_News](https://t.me/IraneAzad_News) | 14. [Indypersian](https://t.me/Indypersian)         |
+| 5. [mamlekate](https://t.me/mamlekate)                 | 10. [drdat_ir](https://t.me/drdat_ir)            | 15. [news_hut](https://t.me/news_hut)       |
 
 <hr/><br/>
 
@@ -293,9 +297,8 @@ _قابل دانلود با اینترنت ملی:_
 
 <br><br/>
 
-<br><br/>
 
-## نوشته‌های قبل از 1405
+## نوشته‌های قبل از عید 1405
 
 > [!WARNING]
 >
