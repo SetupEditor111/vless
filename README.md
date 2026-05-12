@@ -47,7 +47,7 @@
 <details>
 <summary> برای مشاهده لیست تغییرات اخیر کلیک کنید. </summary><br/>
 
-- ✔️ سایفون پرو گوگل‌پلی نسخه v464 beta 
+- ✔️ سایفون پرو گوگل‌پلی نسخه v464 beta
 - ✔️ اپ EveryProxy نسخه v16.2.1
 - ✔️ کلاینت v2rayNG نسخه v2.1.4
 - ✔️ کلاینت v2rayNG نسخه v2.1.7
@@ -249,8 +249,8 @@ _قابل دانلود با اینترنت ملی:_
 | 1. [musssa_i](https://t.me/musssa_i)                   | 6. [iliaen](https://t.me/iliaen)                 | 11. [drtel](https://t.me/drtel)                   |
 | 2. [virauniversitycom](https://t.me/virauniversitycom) | 7. [VahidOnline](https://t.me/VahidOnline)       | 12. [mahsa_alert](https://t.me/mahsa_alert)       |
 | 3. [hadafazadi2022](https://t.me/hadafazadi2022)       | 8. [idfinfarsi](https://t.me/idfinfarsi)         | 13. [JavidnamanIran](https://t.me/JavidnamanIran) |
-| 4. [IranintlTV](https://t.me/IranintlTV)               | 9. [IraneAzad_News](https://t.me/IraneAzad_News) | 14. [Indypersian](https://t.me/Indypersian)         |
-| 5. [mamlekate](https://t.me/mamlekate)                 | 10. [drdat_ir](https://t.me/drdat_ir)            | 15. [news_hut](https://t.me/news_hut)       |
+| 4. [IranintlTV](https://t.me/IranintlTV)               | 9. [IraneAzad_News](https://t.me/IraneAzad_News) | 14. [Indypersian](https://t.me/Indypersian)       |
+| 5. [mamlekate](https://t.me/mamlekate)                 | 10. [drdat_ir](https://t.me/drdat_ir)            | 15. [news_hut](https://t.me/news_hut)             |
 
 <hr/><br/>
 
@@ -296,7 +296,6 @@ _قابل دانلود با اینترنت ملی:_
 <br><br/>
 
 <br><br/>
-
 
 ## نوشته‌های قبل از عید 1405
 
