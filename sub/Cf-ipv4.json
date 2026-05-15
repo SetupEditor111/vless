@@ -1,13 +1,23 @@
 [
     {
         "colo": "Default",
-        "ip": "198.41.209.157",
-        "latency": 54,
+        "ip": "198.41.208.152",
+        "latency": 53,
         "line": "CM",
         "loss": 0,
         "node": "CDCM",
-        "speed": 290,
-        "time": "2026-05-11 23:36:21"
+        "speed": 300,
+        "time": "2026-05-13 04:16:21"
+    },
+    {
+        "colo": "Default",
+        "ip": "198.41.208.123",
+        "latency": 51,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 260,
+        "time": "2026-05-13 20:02:21"
     },
     {
         "colo": "Default",
@@ -21,83 +31,73 @@
     },
     {
         "colo": "Default",
-        "ip": "198.41.209.224",
-        "latency": 54,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 260,
-        "time": "2026-05-12 03:52:46"
-    },
-    {
-        "colo": "Default",
-        "ip": "198.41.208.57",
-        "latency": 53,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 260,
-        "time": "2026-05-11 21:46:33"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.17.145.22",
-        "latency": 142,
+        "ip": "162.159.46.136",
+        "latency": 72,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 275,
-        "time": "2026-05-12 15:06:13"
+        "speed": 290,
+        "time": "2026-05-14 15:55:19"
     },
     {
         "colo": "Default",
-        "ip": "104.17.9.158",
-        "latency": 141,
+        "ip": "104.16.234.18",
+        "latency": 137,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 265,
-        "time": "2026-05-12 13:46:10"
+        "speed": 290,
+        "time": "2026-05-14 15:15:55"
     },
     {
         "colo": "Default",
-        "ip": "104.16.9.189",
-        "latency": 142,
+        "ip": "104.17.177.131",
+        "latency": 133,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 245,
-        "time": "2026-05-12 14:06:00"
+        "speed": 215,
+        "time": "2026-05-14 15:35:34"
     },
     {
         "colo": "Default",
-        "ip": "104.17.147.150",
-        "latency": 132,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 225,
-        "time": "2026-05-12 16:25:32"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.16.90.79",
+        "ip": "104.17.17.124",
         "latency": 133,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
         "speed": 210,
-        "time": "2026-05-12 16:26:13"
+        "time": "2026-05-14 16:36:01"
     },
     {
         "colo": "Default",
-        "ip": "198.41.209.157",
-        "latency": 54,
+        "ip": "104.19.184.254",
+        "latency": 135,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 210,
+        "time": "2026-05-14 14:56:04"
+    },
+    {
+        "colo": "Default",
+        "ip": "198.41.208.152",
+        "latency": 53,
         "line": "CU",
         "loss": 0,
         "node": "CDCM",
-        "speed": 290,
-        "time": "2026-05-11 23:36:21"
+        "speed": 300,
+        "time": "2026-05-13 04:16:21"
+    },
+    {
+        "colo": "Default",
+        "ip": "198.41.208.123",
+        "latency": 51,
+        "line": "CU",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 260,
+        "time": "2026-05-13 20:02:21"
     },
     {
         "colo": "Default",
@@ -108,25 +108,5 @@
         "node": "CDCM",
         "speed": 260,
         "time": "2026-05-12 15:59:49"
-    },
-    {
-        "colo": "Default",
-        "ip": "198.41.209.224",
-        "latency": 54,
-        "line": "CU",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 260,
-        "time": "2026-05-12 03:52:46"
-    },
-    {
-        "colo": "Default",
-        "ip": "198.41.208.57",
-        "latency": 53,
-        "line": "CU",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 260,
-        "time": "2026-05-11 21:46:33"
     }
 ]
