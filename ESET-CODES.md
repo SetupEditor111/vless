@@ -1,4 +1,28 @@
 ## ESET Trial Accounts
+### Generated On: Sunday, 17 May 2026, 16:33
+
+> [!IMPORTANT]
+> **POLICY CHANGE: ESET has discontinued free trial VPN codes.**
+> This generator now only creates ESET HOME accounts.
+> No VPN codes will be provided.
+
+> [!NOTE]
+> Triggered by: **schedule**
+> Account licenses are valid for ~30 days.
+
+<br/>
+
+**ESET ACCOUNT Credentials**
+
+```yml
+Email: rutledge.sid@forliion.com
+Password: @pm8UN6QbC-ui\c2CWvB
+```
+<br/>
+
+Everything you need to know about ESET. [^1]
+<hr><br/>
+
 ### Generated On: Saturday, 16 May 2026, 16:35
 
 > [!IMPORTANT]
@@ -489,6 +513,7 @@ Password: 9U#$O53^%tjtJ4=7{RF
 Everything you need to know about ESET. [^1]
 Credits [^2]
 
+<br/>
 <br/>
 <br/>
 <br/>
